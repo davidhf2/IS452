@@ -26,6 +26,10 @@ Once the search is finished, the user is prompted either to perform another sear
 
 If the user selects 'y' for yes, then the program starts over.
 
-This project includes a set of MARC records made available by the Boston Public Library here: 
+This project includes a set of MARC records made available by the Boston Public Library here: https://archive.org/download/bpl_marc  (see the file named bpl101.mrc)
 
 However, any .mrc file will work with this program.
+
+Here is a short youtube video that demonstrates the functionality: https://youtu.be/EZtlsTgv37c
+
+Here is a short youtube video that walks you through the code: https://youtu.be/xeZTX9m9rZc 
