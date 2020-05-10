@@ -33,3 +33,6 @@ However, any .mrc file will work with this program.
 Here is a short youtube video that demonstrates the functionality: https://youtu.be/EZtlsTgv37c
 
 Here is a short youtube video that walks you through the code: https://youtu.be/xeZTX9m9rZc 
+
+Files:
+final_version.py is the py file
